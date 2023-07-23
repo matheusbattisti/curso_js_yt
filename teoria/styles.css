@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#meuId {
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.minhaClasse {
+  border: 1px solid #ccc;
+}
+
+button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 10px 0;
+  display: block;
+}
+
+form {
+  margin: 20px 0;
+}
+
+form button {
+  background-color: #008cba;
+}
+
+form button:hover {
+  background-color: #007b9a;
+}
+
+a {
+  display: block;
+  margin: 20px 0;
+  color: #333;
+}
